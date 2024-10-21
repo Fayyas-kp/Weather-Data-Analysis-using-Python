@@ -1,4 +1,3 @@
-# Weather-Data-Analysis-using-Python
 # Weather Data Analysis 🌤️
 
 Explore the fascinating realm of weather patterns through a unique lens! This GitHub repository hosts a comprehensive data analysis project based on a diverse dataset, offering insights into various meteorological phenomena.
